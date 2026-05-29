@@ -1,4 +1,4 @@
-# Momento Espírita Alexa Assets
+# Momento Espírita Alexa Skill Assets
 
 This repository hosts public static image assets used by the unofficial Alexa skill **Mensagem Espírita de Hoje**.
 
